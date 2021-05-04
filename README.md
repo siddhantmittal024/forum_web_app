@@ -7,3 +7,4 @@ BACKEND: NODE, EXPRESS
 DATABASE: MYSQL
 
 # OVERVIEW OF THE APP:
+![Screenshot](/Snapshots/1.jpeg)
